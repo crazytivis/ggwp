@@ -1,0 +1,15 @@
+.post-title h2 {
+    margin-bottom: 5px;
+    border-bottom: 2px solid #07b148;
+}
+
+.post-list {
+    flex: 3;
+    border: dashed 0.2rem #006b09;
+    border-radius: 15px;
+    box-shadow: 0.5em 1em 0.5em 0em rgba(64, 73, 59, 0.281);
+    padding: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
